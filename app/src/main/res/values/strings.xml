@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">listview</string>
+    <string name="phone">Phone</string>
+    <string name="enter_phone_no">enter_phone_no</string>
+    <string name="country">country</string>
+    <string name="states">states</string>
+    <string name="submit">submit</string>
+
+
 </resources>
