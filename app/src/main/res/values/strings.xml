@@ -5,6 +5,11 @@
     <string name="country">country</string>
     <string name="states">states</string>
     <string name="submit">submit</string>
+    <string name="signup_form">SignUp Form</string>
+    <string name="name">Name</string>
+    <string name="email_id">Email_id</string>
+    <string name="state">state</string>
+    <string name="city">City</string>
 
 
 </resources>
